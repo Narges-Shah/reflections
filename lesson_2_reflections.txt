@@ -1,2 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
+After initializing a repository I can track changes to every file in it. I need to do it because this way I can manage changes very easily.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is a place to prepare files for commit. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+I can select files related to a logical change and put them together in staging area. Then commit all of them at once.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When new ideas should be tried.
