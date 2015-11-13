@@ -1,0 +1,11 @@
+To have the history of the changes made, could be beneficial when I need to go back a little bit on the changes I have made. Specially when The chages are making my program unstable.
+
+The good thing about manual commits is that it can be done intelligently and when neede. On the other hand, it is prone to human errors like forgetting to commit or bad judgement about when to commit.
+
+I think that systems like Google Docs have each single file separately in mind but Git works with the whole bunch of files as a single project.
+
+using git log and git diff I can see all the changes made to the files with detail of every one of them
+
+With version control I am confident that I could go back on changes that might break something
+
+I will try using git for my files in IOS nano-degree
