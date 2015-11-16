@@ -4,4 +4,8 @@ when I need to share my project's files with others.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Doing it manually I am able to control the changes better and smarter!
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork is a copy of a repo to another location only in GitHub. Changing the fork won't affect the original Repo.
+Clone is a copy of a repo to any location. Changing a Clone might affect the original repo if pushed 
+Branch is done for making changes to a project separately. 
 
