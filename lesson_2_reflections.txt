@@ -17,3 +17,8 @@ What is the result of merging two branches together? Why do we represent it in t
 We can use all the changes and new features in all branches merged. 
 I ma not sure!!!
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merge obviously save us a lot of hassles but on the other hand in the case of any conflicts it's better done manually.
+
+
+
