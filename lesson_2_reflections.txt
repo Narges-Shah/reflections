@@ -12,3 +12,8 @@ When new ideas should be tried.
 
 How do the diagrams help you visualize the branch structure?
 I can show each branch with an actual form of branch in the visualize form.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+We can use all the changes and new features in all branches merged. 
+I ma not sure!!!
+
